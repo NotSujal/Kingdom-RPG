@@ -1,0 +1,140 @@
+{
+    "781767296121176074": {
+        "name": "Sujal",
+        "img": "https://cdn.discordapp.com/avatars/781767296121176074/80ac91c7fa46a7b4a5978cd7f54c5a52.webp?size=1024",
+        "footer": "u depressed?",
+        "lvl": 19,
+        "coins": 16767,
+        "loc": "River Hz",
+        "xp": 73,
+        "skillpoints": 9,
+        "helmet": "None",
+        "chestplate": "None",
+        "boots": "None",
+        "axe": "Axe",
+        "pickaxe": "Iron Pickaxe",
+        "strenght": 5,
+        "reaper": "0",
+        "health": "0",
+        "xpboost": 1,
+        "miner": 2,
+        "inv": {
+            "Iron": "2",
+            "Coal Ore": "6",
+            "Oak Wood": "5",
+            "Pickaxe": "1"
+        },
+        "lumberjack": 1,
+        "mining": "0",
+        "False": 1
+    },
+    "897002221244395540": {
+        "lvl": 0,
+        "xp": 57,
+        "loc": "House",
+        "coins": "0",
+        "skillpoints": 0,
+        "helmet": "None",
+        "chestplate": "None",
+        "boots": "None",
+        "axe": "None",
+        "pickaxe": "None"
+    },
+    "882371874120675379": {
+        "lvl": 2,
+        "xp": 19,
+        "skillpoints": 1
+    },
+    "773911690629742602": {
+        "lvl": 2,
+        "xp": 43,
+        "skillpoints": 2
+    },
+    "811063196248440903": {
+        "lvl": 0,
+        "xp": 79,
+        "skillpoints": 0
+    },
+    "696698254770831421": {
+        "lvl": 0,
+        "xp": 60,
+        "skillpoints": 0
+    },
+    "686810200732467250": {
+        "lvl": 0,
+        "xp": 24,
+        "skillpoints": 0
+    },
+    "840764486968934420": {
+        "lvl": 5,
+        "xp": 9,
+        "skillpoints": 5,
+        "loc": "House",
+        "axe": "None"
+    },
+    "933351798243229726": {
+        "loc": "House"
+    },
+    "428188716641812481": {
+        "loc": "House",
+        "lvl": 0,
+        "xp": 18,
+        "skillpoints": 0
+    },
+    "841587673437306883": {
+        "lvl": 0,
+        "xp": 27,
+        "skillpoints": 0
+    },
+    "679972389739692058": {
+        "lvl": 0,
+        "xp": 99,
+        "skillpoints": 0
+    },
+    "753929673997549648": {
+        "lvl": 0,
+        "xp": 25,
+        "skillpoints": 0
+    },
+    "764747225037144065": {
+        "lvl": 1,
+        "xp": 81,
+        "skillpoints": 1,
+        "inv": {}
+    },
+    "879941733952139315": {
+        "lvl": 0,
+        "xp": 10,
+        "skillpoints": 0
+    },
+    "868367226854580225": {
+        "lvl": 0,
+        "xp": 1,
+        "skillpoints": 0
+    },
+    "852908598664364082": {
+        "lvl": 0,
+        "xp": 63,
+        "skillpoints": 0
+    },
+    "947969684051992666": {
+        "lvl": 0,
+        "xp": 8,
+        "skillpoints": 0
+    },
+    "476389752279662593": {
+        "lvl": 0,
+        "xp": 8,
+        "skillpoints": 0
+    },
+    "746321487174041731": {
+        "lvl": 0,
+        "xp": 74,
+        "skillpoints": 0
+    },
+    "687560061584801824": {
+        "lvl": 1,
+        "xp": 62,
+        "skillpoints": 1
+    }
+}

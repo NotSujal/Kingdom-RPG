@@ -1,0 +1,22 @@
+**This is a RPG game!**,
+
+You can talk with fancy style with your own character name try `say I am the best`.
+
+You can be  a *warrior, trader, etc.*
+
+To start you can `{0}forage` to get some *food*,
+and sell it to market using `{0}sell` command. 
+
+Once you have enough money you can `{0}buy` a *cheap axe*
+and a *pickaxe* to `{0}mine` and `{0}chop` some trees.
+
+Oh you are in your *house*,
+ (`{0}loc`) you need to go out to get some resources.
+
+You can *travel* by `{0}travel` command. But where? you can know it by the `{0}map`.
+
+The more you play the *faster xp* you get, 
+you can *level up* your `{0}skills` by `{0}assign` (ing) your unspent skill points, these are buffs!
+
+As you level up, *more locations* will be available for exploring *more items*, etc.
+`Bot still in development` 

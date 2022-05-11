@@ -1,0 +1,20 @@
+{
+    "strenght":{
+        "desc":"With this skill you can hold heavy weapons and deal higher damage"
+        },
+    "health":{
+        "desc":"With this skill you can increase your capacity to absorb damage"
+        },
+    "lumberjack":{
+        "desc":"Get wood efficiently! Boosts the outcome of wood"
+        },
+    "xpboost":{
+        "desc":"Collect XP faster, Gain more Xp per battle"
+        },
+    "miner":{
+        "desc":"Mine Ores Carefully, Wou can call it Fortune enchantment."
+        },
+    "reaper":{
+        "desc":"Reap crops and search around the area effectivly."
+        }
+}

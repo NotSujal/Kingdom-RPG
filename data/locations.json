@@ -1,0 +1,226 @@
+{
+    "House": {
+        "enemy": [],
+        "ore": [],
+        "lumber": [],
+        "img": "images/holz_land.jpg",
+        "desc": "This is Your House",
+        "cost": 0,
+        "req_lvl": 0
+    },
+    "Village Holz": {
+        "enemy": ["Zombie"],
+        "ore": ["Coal Ore", "Iron Ore"],
+        "lumber": ["Oak Wood", "Cherry Wood", "Maple Wood"],
+        "img": "images/holz_land.jpg",
+        "desc":
+        "Holz is a small village with thick forest circumferincing it.",
+        "cost": 0,
+        "req_lvl": 0
+    },
+    "Holz GraveYard": {
+        "enemy": ["Zombie", "Skeleton"],
+        "ore": [],
+        "lumber": ["Oak Wood"],
+        "img": "images/holz_land.jpg",
+        "desc": "Kids usually come here to grind out their levels",
+        "cost": 0,
+        "req_lvl": 1
+    },
+    "River Hz": {
+        "enemy": ["Zombie", "Skeleton"],
+        "ore": ["Coal Ore"],
+        "lumber": ["Oak Wood", "Maple Wood"],
+        "img": "images/holz_land.jpg",
+        "desc": "A pretty nice place to have a bath",
+        "cost": 0,
+        "req_lvl": 2
+    },
+    "Copper Route": {
+        "enemy": ["Voodoolich"],
+        "ore": ["Iron Ore", "Copper Ore"],
+        "lumber": ["Apple Wood", "Maple Wood"],
+        "img": "images/holz_land.jpg",
+        "desc": "This route is covered with red sand",
+        "cost": 0,
+        "req_lvl": 5
+    },
+    "Red Swamps": {
+        "enemy": ["Voodoolich", "Eel"],
+        "ore": ["Iron Ore", "Copper Ore"],
+        "lumber": ["Mangrove Wood"],
+        "img": "images/holz_land.jpg",
+        "desc": "A wet red swamp, it look likes blood",
+        "cost": 0,
+        "req_lvl": 10
+    },
+
+
+
+
+
+    
+    "Canyon Jilt": {
+        "enemy": ["Voodoolich", "Skeleton", "Metalboy"],
+        "ore": ["Iron Ore", "Copper Ore", "Coal Ore", "Gold Ore"],
+        "lumber": [],
+        "img": "images/jilted_land.jpg",
+        "desc": "A dry old Canyon, full of terror",
+        "cost": 100,
+        "req_lvl": 20
+    },
+    "Jilted Kingdom": {
+        "enemy": ["Voodoolich", "Skeleton", "Metalboy"],
+        "ore": ["Iron Ore"],
+        "lumber": ["Oak Wood", "Desert Sage"],
+        "img": "images/jilted_land.jpg",
+        "desc": "A long forgoten village, surrounded by bad omen",
+        "cost": 100,
+        "req_lvl": 30
+    },
+
+
+
+
+
+    
+    "Frostbush": {
+        "enemy": ["Metalboy","Poisonseeker"],
+        "ore": ["Zinc Ore","Gold Ore","Platinum Ore","Nickel Ore","Cobalt Ore"],
+        "lumber": ["Pine Wood","Conifer Wood"],
+        "img": "images/ice_land.jpg",
+        "desc": "A Icy cold location, full of ores",
+        "cost": 500,
+        "req_lvl": 40
+    },
+    "Fb. Market": {
+        "enemy": [],
+        "ore": [],
+        "lumber": ["Pine Wood"],
+        "img": "images/ice_land.jpg",
+        "desc":
+        "A huge market to sell and buy stuff, worldwide worriers visit here",
+        "cost": 500,
+        "req_lvl": 50
+    },
+    "Pinoco Forest": {
+        "enemy": ["Toxinhag","Poisonseeker","Frostbug"],
+        "ore": ["Coal Ore"],
+        "lumber": ["Pine Wood","Spruce Wood","Birch Wood"],
+        "img": "images/ice_land.jpg",
+        "desc": "A small forest beside Frostbush Market",
+        "cost": 500,
+        "req_lvl": 50
+    },
+
+
+
+
+
+    
+    "Richdad Alps": {
+        "enemy": ["Viletaur","Boweltalon","Phantomstep","Gallpest"],
+        "ore": ["Coal Ore","Tin Ore","Cobalt Ore","Aluminium Ore"],
+        "lumber": ["Pine Wood","Spruce Wood","Birch Wood"],
+        "img": "images/alps_land.jpg",
+        "desc": "This is an active volcano, can burn you anytime",
+        "cost": 1000,
+        "req_lvl": 60
+    },
+    "Mount Poordad": {
+        "enemy": ["Viletaur","Phantomstep","Gallpest"],
+        "ore": ["Coa Orel","Aluminium Ore"],
+        "lumber": ["Pine Wood"],
+        "img": "images/alps_land.jpg",
+        "desc": "The tallest mountain but isn't a volcano",
+        "cost": 1000,
+        "req_lvl": 70
+    },
+    "Dark Abyss": {
+        "enemy": ["Viletaur","Gallpest","Boweltalon"],
+        "ore": ["Coal Ore","Aluminium Ore"],
+        "lumber": ["Pine Wood","Spruce Wood","Birch Wood"],
+        "img": "images/alps_land.jpg",
+        "desc": "A void between Mount Poordad and Lake Torrid",
+        "cost": 1000,
+        "req_lvl": 80
+    },
+    "Lake Torrid": {
+        "enemy": ["Viletaur","Gallpest","Boweltalon"],
+        "ore": ["Coal Ore","Nickel Ore","Rutherfordium Ore"],
+        "lumber": [],
+        "img": "images/alps_land.jpg",
+        "desc": "It takes 3 minutes to boil a peice of meat in this water",
+        "cost": 1000,
+        "req_lvl": 80
+    },
+
+
+
+
+
+    
+    "Cresent Pearl": {
+        "enemy": ["Decaybug","Dreamlich","Grimebeast","Chaosbug"],
+        "ore": ["Iron Ore","Nickel Ore","Rutherfordium Ore"],
+        "lumber": ["Palm Wood","Coconut  Wood"],
+        "img": "images/moon_land.jpg",
+        "desc": "A Crescent Shaped Island",
+        "cost": 1500,
+        "req_lvl": 100
+    },
+    
+    "Moon Town": {
+        "enemy": ["Decaybug"],
+        "ore": ["Rutherfordium Ore"],
+        "lumber": ["Palm Wood","Coconut Wood"],
+        "img": "images/moon_land.jpg",
+        "desc": "The next big market to buy and sell things",
+        "cost": 1500,
+        "req_lvl": 100
+    },
+    "Flower Mist": {
+        "enemy": ["Dreamlich","Chaosbug"],
+        "ore": ["Gallium Ore","Cuppurospar Ore","Mytheum Ore"],
+        "lumber": ["Palm Wood","Coconut Wood"],
+        "img": "images/moon_land.jpg",
+        "desc": "This is a meadow, always full of seasonal flowers and mist",
+        "cost": 1500,
+        "req_lvl": 100
+    },
+
+
+
+
+
+    
+    "Canvata Deeps": {
+        "enemy": ["Ashpod","Germbody","Soulgolem"],
+        "ore": ["Chirart Ore","Quartz Ore","Quantite Ore"],
+        "lumber": ["Sea Weed","Kelp"],
+        "img": "images/world_map.jpg",
+        "desc": "The deepest habitable place in the world, it is one of the biggest cave.",
+        "cost": 3000,
+        "req_lvl": 125
+    },
+
+    "C.D. Kingdom": {
+        "enemy": [],
+        "ore": ["Chirart Ore","Quantite Ore"],
+        "lumber": ["Waterwheel Plant","Coral"],
+        "img": "images/world_map.jpg",
+        "desc": "The deepest habitable place in the world, it is one of the biggest cave.",
+        "cost": 3000,
+        "req_lvl": 125
+    },
+
+    "Sodden Point": {
+        "enemy": [],
+        "ore": ["Chirart Ore","Quantite Ore","Quartz Ore","Valandate Ore"],
+        "lumber": ["Waterwheel Plant","Coral","Sea Anemone"],
+        "img": "",
+        "desc": "The deepest and the driest place in world",
+        "cost": 3500,
+        "req_lvl": 125
+    }
+}

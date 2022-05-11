@@ -1,0 +1,734 @@
+{
+    "Debug01":{
+        "desc" : "Debug item 1",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"debug"}
+    },
+    "Debug02":{
+        "desc" : "Debug item 2",
+        "img":"",
+        "recipe": {"Debug01": 2},
+        "meta":{"type":"debug"}
+    },
+    "Debug03":{
+        "desc" : "Debug item 3",
+        "img":"",
+        "recipe": {"Debug01": 5, "Debug02": 10},
+        "meta":{"type":"debug"}
+    },
+
+    "None":{
+        "desc" : "Is this even a item?",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"debug",
+            "qfac": "1",
+            "strenght":"0"
+        }
+    },
+
+    "Oak Wood":{
+        "desc" : "Oak Wood is most common in Village Holz",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Cherry Wood":{
+        "desc" : "Cherry  Wood smells very plesent,found in Holz",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Maple Wood":{
+        "desc" : "Maple Wood is useless after extracting its pulp, its soft tho",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Apple Wood":{
+        "desc" : "Unfortunately you cant eat it, Burning it is wise. Found in Copper Route",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Mangrove Wood":{
+        "desc" : "Found in red swapms, used for making ropes and stuff",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Desert Sage Wood":{
+        "desc" : "You can get purple dye from it, found at Jilted Kingdom",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Pine Wood":{
+        "desc" : "Pine Woods at Frostbush are very tall and thick",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Conifer Wood":{
+        "desc" : "Found in Frostbush, a rough and tough  Wood",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Spruce Wood":{
+        "desc" : "These are unique trees of Pinoco Forest, a dark tint on it makes it the best  Wood meta",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Birch Wood":{
+        "desc" : "Found in Pinoco Forest, its bark is used for decorating, and as handles for sharp blades",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Palm Wood":{
+        "desc" : "These trees surround the Cresent Pearl",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Coconut Wood":{
+        "desc" : "The best tree needed for survival is most commom in Cresent Pearl",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Sea Weed":{
+        "desc" : "The Grass of Ocean,",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Kelp Plant":{
+        "desc" : "The best tree needed for survival is most commom in Cresent Pearl",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Coral":{
+        "desc" : "The best tree needed for survival is most commom in Cresent Pearl",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Waterwheel Plant":{
+        "desc" : "The best tree needed for survival is most commom in Cresent Pearl",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+    "Sea Anemone":{
+        "desc" : "A cool Sea Plant",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"lumber"}
+    },
+
+
+
+
+    "Coal Ore": {
+        "desc" : "Coal is a combustible black or brownish-black sedimentary rock, formed as rock strata called coal seams. Coal is mostly carbon with variable amounts of other elements, chiefly hydrogen, sulfur, oxygen, and nitrogen.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":1}
+    },
+    "Iron Ore": {
+        "desc" : "It is, by mass, the most common element on Earth, right in front of oxygen, forming much of Earth's outer and inner core",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":1}
+    },
+    "Copper Ore": {
+        "desc" : "It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":2}
+    },
+    "Zinc Ore": {
+        "desc" : "Zinc is a mineral that's essential for good health. It's required for the functions of over 300 enzymes and involved in many important processes",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":3}
+    },
+    "Nickel Ore": {
+        "desc" : "Nickel is a chemical element with the symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":4}
+    },
+    "Cobalt Ore": {
+        "desc" : "Like nickel, cobalt is found in the Earth's crust only in a chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":5}
+    },
+    "Silver Ore": {
+        "desc" : "Silver is a chemical element with the symbol Ag and atomic number 47. A soft, white, lustrous transition metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":5}
+    },
+    "Gold Ore": {
+        "desc" : "Gold is a chemical element with the symbol Au and atomic number 79, making it one of the higher atomic number elements that occur naturally. In a pure form, it is a bright, slightly orange yellow, dense, soft, malleable, and ductile metal.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":5}
+    },
+    "Platinum Ore": {
+        "desc" : "Platinum is a chemical element with the symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name originates from Spanish platina, a diminutive of plata 'silver'.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":5}
+    },
+    "Tin Ore": {
+        "desc" : "Tin is a silvery-colored metal that characteristically has a faint yellow hue. Tin is soft enough to be cut with little force and a bar of tin can be bent by hand with little effort.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":6}
+    },
+    "Aluminium Ore": {
+        "desc" : "Aluminium is a chemical element with the symbol Al and atomic number 13. Aluminium has a density lower than those of other common metals",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":7}
+    },
+    "Rutherfordium Ore": {
+        "desc" : "Rutherfordium is a synthetic chemical element with the symbol Rf and atomic number 104, named after New Zealand physicist Ernest Rutherford. As a synthetic element, it is not found in nature and can only be created in a laboratory.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":7}
+    },
+    "Gallium Ore": {
+        "desc" : "Gallium is in group 13 of the periodic table and is similar to the other metals of the group. Elemental gallium is a soft, silvery metal in standard temperature and pressure.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":7}
+    },
+    "Cuppurospar Ore": {
+        "desc" : "Cuppurospar is a Group 19 element, it is inert to most of the gases, and has a dull white colour, it is a crystalline solid",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":8}
+    },
+    "Mytheum Ore": {
+        "desc" : "When Methane and Ethane Solidifies is absolute zero temprature, they form Mytheum, a rare solid ",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":8}
+    },
+    "Chirart Ore": {
+        "desc" : "Chirart is a hot and energitic ore, it is in period 8 of Modern Periodic Table. A a maleable shiny orange metal  ",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":8}
+    },
+    "Quartz Ore": {
+        "desc" : "Quartz is a hard, crystalline mineral composed of silica. The atoms are linked in a continuous framework of SiO₄ silicon-oxygen tetrahedra, with each oxygen being shared between two tetrahedra, giving an overall chemical formula of SiO₂.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":9}
+    },
+    "Quantite Ore": {
+        "desc" : "Newtonian physics failed to explain the existance of Quantite, it is something of an exception, a collection of perfect amount of energies will light it up on never ending fire.",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":9}
+    },
+    "Valandate Ore":{
+        "desc" : "Valandate is the toughest, densest element known till now, it has abillity to radiate energies, and is used as a standard clock in town of Holz",
+        "img":"",
+        "recipe": {},
+        "meta":{"type":"ore","rare":10}
+    },
+
+
+
+    "Brass":{
+        "desc" : "Brass is a non-ferrous, red metal and an alloy that is composed of copper and zinc. The proportions of copper and zinc can be varied in order to achieve different desired mechanical and electrical properties.",
+        "img":"",
+        "recipe": {
+            "Copper":5,
+            "Zinc":2
+            },
+        "meta":{"type":"alloy"}
+    },
+    "Bronze":{
+        "desc" : "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals (such as aluminum, manganese, nickel or zinc) and sometimes non-metals or metalloids such as arsenic, phosphorus or silicon.",
+        "img":"",
+        "recipe": {
+            "Copper":10,
+            "Tin":10
+            },
+        "meta":{"type":"alloy"}
+    },
+    "Gilding metal":{
+        "desc" : "Gilding metal is a form of brass with a much higher copper content than zinc content. Exact figures range from 95% copper and 5% zinc to “8 parts copper to 1 of zinc” in British Army Dress Regulations.",
+        "img":"",
+        "recipe": {"Copper":8,
+        "Zinc":1},
+        "meta":{"type":"alloy"}
+    },
+    "Pewter":{
+        "desc" : "Pewter is a malleable metal alloy consisting of tin, antimony, copper, bismuth, and sometimes silver. Copper and antimony act as hardeners but lead may be used in lower grades of pewter, imparting a bluish tint.",
+        "img":"",
+        "recipe": {"Tin": 9 ,"Silver": 5 ,"Copper":20},
+        "meta":{"type":"alloy"}
+    },
+    "Cast Iron":{
+        "desc" : "Cast iron is a group of iron–carbon alloys with a carbon content more than 2%. Its usefulness derives from its relatively low melting temperature.",
+        "img":"",
+        "recipe": {"Coal": 20 ,"Iron":10 },
+        "meta":{"type":"alloy"}
+    },
+    "Stainless Steel":{
+        "desc" : "Stainless steel, any one of a group of alloy steels usually containing 10 to 30 percent chromium.",
+        "img":"",
+        "recipe": {"Nickel":5  ,"Iron":11,"Coal":10 },
+        "meta":{"type":"alloy"}
+    },
+        
+
+
+
+
+
+    "Iron Ingot": {
+        "desc" : "Shiny Bar of Iron",
+        "img":"",
+        "recipe": {"Iron Ore":5 },
+        "meta":{"type":"ingot"}
+    },
+    "Copper Ingot": {
+        "desc" : "Shiny Bar of Copper",
+        "img":"",
+        "recipe": {"Copper Ore":5 },
+        "meta":{"type":"ingot"}
+    },
+    "Zinc Ingot": {
+        "desc" : "Shiny Bar of Zinc",
+        "img":"",
+        "recipe": {"Zinc Ore":7 },
+        "meta":{"type":"ingot"}
+    },
+    "Nickel Ingot": {
+        "desc" : "Shiny Bar of Nickel",
+        "img":"",
+        "recipe": {"Nickel Ore":7 },
+        "meta":{"type":"ingot"}
+    },
+    "Cobalt Ingot": {
+        "desc" : "A blue bar of Cobalt",
+        "img":"",
+        "recipe": {"Cobalt Ore":10 },
+        "meta":{"type":"ingot"}
+    },
+    "Silver Ingot": {
+        "desc" : "Shiny Bar of Silver",
+        "img":"",
+        "recipe": {"Silver Ore":10 },
+        "meta":{"type":"ingot"}
+    },
+    "Gold Ingot": {
+        "desc" : "Shiny Bar of Gold, Keep it safe",
+        "img":"",
+        "recipe": {"Gold Ore":10 },
+        "meta":{"type":"ingot"}
+    },
+    "Platinum Ingot": {
+        "desc" : "You are rich!",
+        "img":"",
+        "recipe": {"Platinum Ore":15 },
+        "meta":{"type":"ingot"}
+    },
+    "Tin Ingot": {
+        "desc" : "Dev Out of context",
+        "img":"",
+        "recipe": {"Tin Ore":20 },
+        "meta":{"type":"ingot"}
+    },
+    "Aluminium Ingot": {
+        "desc" : "Dev Out of context",
+        "img":"",
+        "recipe": {"Aluminium Ore":20 },
+        "meta":{"type":"ingot"}
+    },
+    "Rutherfordium Ingot": {
+        "desc" : "Dev Out of context",
+        "img":"",
+        "recipe": {"Rutherfordium Ore":20 },
+        "meta":{"type":"ingot"}
+    },
+    "Gallium Ingot": {
+        "desc" : "Wait Gallium is liquid right?",
+        "img":"",
+        "recipe": {"Gallium Ore":30 },
+        "meta":{"type":"ingot"}
+    },
+    "Cuppurospar Ingot": {
+        "desc" : "Don't  google it",
+        "img":"",
+        "recipe": {"Cuppurospar Ore":30 },
+        "meta":{"type":"ingot"}
+    },
+    "Mytheum Ingot": {
+        "desc" : "Is it a myth?",
+        "img":"",
+        "recipe": {"Mytheum Ore":30 },
+        "meta":{"type":"ingot"}
+    },
+    "Chirart Ingot": {
+        "desc" : "Hmm, More like Charizard",
+        "img":"",
+        "recipe": {"Chirart Ore":30 },
+        "meta":{"type":"ingot"}
+    },
+    "Quartz Ingot": {
+        "desc" : "According to me this should not exist",
+        "img":"",
+        "recipe": {"Quartz Ore":40 },
+        "meta":{"type":"ingot"}
+    },
+    "Quantite Ingot": {
+        "desc" : "Quantite really?",
+        "img":"",
+        "recipe": {"Quantite Ore":40 },
+        "meta":{"type":"ingot"}
+    },
+    "Valandate Ingot": {
+        "desc" : "Why are you wasting time, playing this?",
+        "img":"",
+        "recipe": {"Valandate Ore":40 },
+        "meta":{"type":"ingot"}
+    },
+
+
+
+
+
+
+    "Lemon":{
+        "desc" : "The lemon is a species of small evergreen tree in the flowering plant family Rutaceae",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "5"
+        }
+    },
+    "Apple":{
+        "desc" : "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. ",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "10"
+        }
+    },
+    "Wheat":{
+        "desc" : "Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food.",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "30"
+        }
+    },
+    "Orange":{
+        "desc" : "An orange is a fruit of various citrus species in the family Rutaceae; it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange.",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "15"
+        }
+    },
+    "Coconut":{
+        "desc" : "Coconut is the fruit of the coconut palm (Cocos nucifera). It's used for its water, milk, oil, and tasty meat. Coconuts have been grown in tropical regions for more than 4,500 years but recently increased in popularity for their flavor, culinary uses, and potential health benefits ",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "30"
+        }
+    },
+    "Golden Apple":{
+        "desc" : "An Golden Apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. These apples are coated with Gold to enhance their Efftects",
+        "img":"",
+        "recipe": {
+            "Apple":3,
+            "Gold": 3
+        },
+        "meta":{
+            "type":"food",
+            "heal": "100"
+        }
+    },
+    "Carrot":{
+        "desc" : "The carrot is a root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist, all of which are domesticated forms of the wild carrot, Daucus carota",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "30"
+        }
+    },
+    "Patato":{
+        "desc" : "The potato is a starchy tuber of the plant Solanum tuberosum. The plant is a perennial in the nightshade family Solanaceae. ... Potatoes were the world's fourth-largest food crop after maize (corn), wheat, and rice.",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "20"
+        }
+    },
+    "Milk":{
+        "desc" : "Milk is a nutrient-rich liquid food. It is the primary source of nutrition for young mammals.",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "50"
+        }
+    },
+    "Sugarcane":{
+        "desc" : "Sugarcane or sugar cane is a species of (often hybrid) tall, perennial grass that is used for sugar production",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "30"
+        }
+    },
+    "Sugar":{
+        "desc" : "Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.",
+        "img":"",
+        "recipe": {
+            "Sugarcane": 5
+        },
+        "meta":{
+            "type":"food",
+            "heal": "10"
+        }
+    },
+    "Egg":{
+        "desc" : "Egg yolks and whole eggs store significant amounts of protein and choline, and are widely used in cookery. ",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"food",
+            "heal": "50"
+        }
+    },
+    "Cake":{
+        "desc" : "Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked.",
+        "img":"",
+        "recipe": {
+            "Wheat": 10,
+            "Milk": 3,
+            "Egg": 2,
+            "Sugar": 4
+        },
+        "meta":{
+            "type":"food",
+            "heal": "70"
+        }
+    },
+
+
+
+
+
+    "Pickaxe":{
+        "desc" : "Used to mine ores",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "1",
+            "strenght": "1"
+        }
+    },
+
+    "Iron Pickaxe":{
+        "desc" : "Used to mine ores",
+        "img":"",
+        "recipe": {
+            "Iron": 5,
+            "Oak Wood": 10
+            },
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "1",
+            "strenght": "1"
+        }
+    },
+
+    "Gold Pickaxe":{
+        "desc" : "Golden Pickaxe mines ores carefully",
+        "img":"",
+        "recipe": {"Iron Pickaxe": 1 ,"Gold": 10 ,"Maple Wood": 8},
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "2",
+            "strenght": "1"
+        }
+    },
+
+    "Steel Pickaxe":{
+        "desc" : "Ahh, a non rusty and strong pickaxe!",
+        "img":"",
+        "recipe": {"Stainless Steel": 10 ,"Pine Wood": 10 ,"Maple Wood":10},
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "3",
+            "strenght": "3"
+        }
+    },
+
+    "Platinum Pickaxe":{
+        "desc" : "A fine coat of Platinum on Steel Pickaxe makes it a miners ideal Pickaxe",
+        "img":"",
+        "recipe": {"Steel Pickaxe":1  ,"Platinum": 15 ,"Spruce Wood": 20},
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "4",
+            "strenght": "6"
+        }
+    },
+
+    "Rutherfordium Pickaxe":{
+        "desc" : "When Platinum Pickaxe is treated with Rutherfordium, It glows purple",
+        "img":"",
+        "recipe": {"Platinum Pickaxe":1  ,"Rutherfordium": 40 ,"Birch Wood":50},
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "6",
+            "strenght": "10"
+        }
+    },
+
+    "Mytheum Pickaxe":{
+        "desc" : "A red glowing pickaxe, Requires A lot of strenght to pick it up",
+        "img":"",
+        "recipe": {"Rutherfordium Pickaxe": 1 ,"Mytheum":80,"Birch Wood": 100 ,"Palm Wood":50},
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "8",
+            "strenght": "15"
+        }
+    },
+
+    "Quantite Pickaxe":{
+        "desc" : "A red glowing pickaxe, Requires A lot of strenght to pick it up",
+        "img":"",
+        "recipe": {"Mytheum Pickaxe": 1 ,"Quantite": 100 ,"Kelp Plant":200},
+        "meta":{
+            "type":"pickaxe",
+            "qfac": "10",
+            "strenght": "25"
+        }
+    },
+
+
+
+    "Axe":{
+        "desc" : "Go get wood",
+        "img":"",
+        "recipe": {},
+        "meta":{
+            "type":"axe",
+            "qfac": "1",
+            "strenght": "1"
+        }
+    },
+
+    "Iron Axe":{
+        "desc" : "Go get wood",
+        "img":"",
+        "recipe": {
+            "Iron": 10,
+            "Oak Wood": 10
+            },
+        "meta":{
+            "type":"axe",
+            "qfac": "1",
+            "strenght": "1"
+        }
+    },
+
+    "Gold Axe":{
+        "desc" : "Golden Axe mines Wood carefully",
+        "img":"",
+        "recipe": {"Iron Axe": 1 ,"Gold": 15 ,"Maple Wood":20},
+        "meta":{
+            "type":"axe",
+            "qfac": "2",
+            "strenght": "1"
+        }
+    },
+
+    "Cuppurospar Axe":{
+        "desc" : "Ahh, a shiny and strong Axe!",
+        "img":"",
+        "recipe": {"Gold Axe": 1 ,"Cuppurospar": 22  ,"Pine Wood": 15 ,"Maple Wood":30 },
+        "meta":{
+            "type":"axe",
+            "qfac": "3",
+            "strenght": "3"
+        }
+    },
+
+    "Platinum Axe":{
+        "desc" : "A fine coat of Platinum on Steel Pickaxe makes it a a lumberjacks ideal Axe",
+        "img":"",
+        "recipe": {"Cuppurospar Axe":1  ,"Platinum": 25  ,"Spruce Wood": 30},
+        "meta":{
+            "type":"axe",
+            "qfac": "4",
+            "strenght": "6"
+        }
+    },
+
+    "Rutherfordium Axe":{
+        "desc" : "When Platinum Axe is treated with Rutherfordium, It glows purple",
+        "img":"",
+        "recipe": {"Platinum Axe": 1 ,"Rutherfordium": 50 ,"Birch Wood": 40},
+        "meta":{
+            "type":"axe",
+            "qfac": "6",
+            "strenght": "10"
+        }
+    },
+
+    "Mytheum Axe":{
+        "desc" : "A red glowing axe, Requires A lot of strenght to pick it up",
+        "img":"",
+        "recipe": {"Rutherfordium Axe": 1 ,"Mytheum": 100 ,"Birch Wood": 100 ,"Palm Wood":70},
+        "meta":{
+            "type":"axe",
+            "qfac": "8",
+            "strenght": "15"
+        }
+    },
+
+    "Quantite Axe":{
+        "desc" : "A red glowing axe, Requires A lot of strenght to pick it up",
+        "img":"",
+        "recipe": {"Mytheum Axe":1  ,"Quantite":100 ,"Kelp Plant": 200},
+        "meta":{
+            "type":"axe",
+            "qfac": "10",
+            "strenght": "25"
+        }
+    }
+
+}

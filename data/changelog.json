@@ -1,0 +1,38 @@
+{
+    "06/02/2022":{
+        "title":"Shopping!",
+        "desc": "New commands related to shops are added.",
+        "fields":{
+            "shop":"Get all the list of available items to buy and sell",
+            "buy": "Buy any item from the shop",
+            "sell": "Sell any item to the shop at 30% of the buying price"
+        }
+    },
+    
+    
+    
+    "05/02/2022":{
+        "title":"Mine, Chop and Forage",
+        "desc":"New commands added. Now you can gather resources.",
+        "fields":{
+            "mine":"this command allows you to mine ores with your currently equipped pickaxe. Your pickaxe and skills will decide the amount of item.",
+            "chop":"this command allows you to collect wood. After equipping an axe, you can chop trees. Amount will be buffed with respect to your axe and skills",
+            "forage":"Look around your current location and find something to eat. Is it stealing? I dont now..."
+        }
+    },
+    
+    "04/02/2022":{
+        "title": "API for game data",
+        "desc": "An Api of the games data is live with the bot, so you can access it for your advantages",
+        "fields":{
+                "Items": "https://kingdom-rpg.notsujal.repl.co/items.json",
+                "Location": "https://kingdom-rpg.notsujal.repl.co/locations.json",
+                "Skills": "https://kingdom-rpg.notsujal.repl.co/skills.json"
+            }
+    },
+    "16/01/2022":{
+        "title": "Bot Started",
+        "desc": "The development of this bot started",
+        "fields":{}
+    }
+}
